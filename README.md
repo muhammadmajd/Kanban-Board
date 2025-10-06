@@ -79,5 +79,6 @@ flutter test
 
 # Запуск тестов конкретного файла (рекомендуется):
 flutter test unit_test/provider/kanban_provider_test.dart
+
 flutter test unit_test/provider/theme_provider_test.dart
 .....
