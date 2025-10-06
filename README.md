@@ -13,7 +13,7 @@
 
 |                                                | |
 |:----------------------------------------------:|:-------------------------:|
-|        **Loading Data** <br> Dark Theme        | **Main Screen** <br> Light Theme |
+|        **Main Screen** <br> Dark Theme        | **Main Screen** <br> Light Theme |
 | <img src="assets/screen/dark.png" width="250"> | <img src="assets/light.png" width="250"> |
 
  
